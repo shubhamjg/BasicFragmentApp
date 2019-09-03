@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Basic Fragment App</string>
+    <string name="btn1">fragment no.1</string>
+    <string name="btn2">fragment no.2</string>
+    <string name="btn3">fragment no.3</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_fragment_one">FragmentOne</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
